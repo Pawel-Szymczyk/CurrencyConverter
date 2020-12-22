@@ -7,7 +7,7 @@ A user is able to enter the amount of "money" and choose its currency, as well a
 In response, the app will display the amount of "money" in a new currency. As well as it will display the cost of a single unit of both currencies.
 
 ## Demo
-![Currency Converter App]()
+![Currency Converter App](https://github.com/Pawel-Szymczyk/CurrencyConverter/blob/main/FgYAvOz8H6.gif)
 
 ## Run
 Before run program, you must to install dependences, simply enter: ***npm install*** in the command line. 
